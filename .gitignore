@@ -1,0 +1,13 @@
+# Generated monitoring data
+logs/*
+reports/*
+
+# Keep directories in Git
+!logs/.gitkeep
+!reports/.gitkeep
+
+# Temporary and editor files
+*.tmp
+*.swp
+*~
+.DS_Store
